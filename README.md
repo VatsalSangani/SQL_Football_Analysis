@@ -1,4 +1,4 @@
-# SQL_Soccer_Analysis
+# SQL_Football_Analysis
 
 ## 📊 Project Overview
 This project analyzes football team performance using historical match data. The analysis focuses on how team strategies, such as **Build-Up Play Speed** and **Defence Pressure**, influence match outcomes. The project includes data preprocessing, visualization, and strategy evaluation.
