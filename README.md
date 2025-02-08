@@ -32,3 +32,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Author:** [Vatsal Sangani]  
 **Date:** [12/01/2025]
+
+## NOTE
+You might not be able to see some graphs because those graphs use Plotly so for that it is recommended to clone my repository.
